@@ -26,9 +26,10 @@ After exceeding the package limits:
 1 text message: 1 cent
 1 GB of data: $7
 Instructions on completing the project
-Step 1. Open the data file and study the general information
 
-## File path: 
+### Step 1. Open the data file and study the general information
+
+#### File path: 
 
 /datasets/megaline_calls.csv Download dataset
 
